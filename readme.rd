@@ -1,0 +1,1 @@
+This archive contains some images of the all-assembly western-style open world RPG Aqua for the unexpanded Vic-20 in development, no anime here. Code will be here when completed.
